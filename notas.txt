@@ -1,0 +1,12 @@
+la base de datos de PostgreSQL v17 se llama : clinicadb
+
+usuarios: 
+
+u: admin
+c: admin123
+
+u:@Kenneth
+c:kenneth123
+
+u:recep
+c:recep123
